@@ -1,0 +1,10 @@
+# Site settings
+title: Observe - Orient - Decide - Act
+email: MarkBruns@MarkBruns.com
+description: An Observe-Orient-Decide-Act productivity application designed for the difficult, hyper-competitive environment that entrepreneurs must enjoy and thrive in.
+baseurl: /OODA
+twitter_username: SustainFund
+github_username:  SustainFund/OODA
+
+# Build settings
+markdown: kramdown
